@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+
+body {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 60px;
+    line-height: 1.25;
+    background-color: #ffffff;
+    color: #000000;
+  }
+
+  section.text {
+    border: 100px solid #000000;
+    padding: 100px;
+    background-color: #ffffff;
+    position: relative;
+  }
+
+  section text p {
+      width: 70%;
+  }
+
+  section text a {
+      color: #000000;
+  }
